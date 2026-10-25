@@ -1,0 +1,2018 @@
+{
+  "n001": {
+    "kind": "menu",
+    "parentId": null,
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n002": {
+    "kind": "menu",
+    "parentId": "n001",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n003": {
+    "kind": "choice",
+    "parentId": "n002",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n004": {
+    "kind": "detail",
+    "parentId": "n003",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n005": {
+    "kind": "detail",
+    "parentId": "n003",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n006": {
+    "kind": "detail",
+    "parentId": "n003",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n007": {
+    "kind": "detail",
+    "parentId": "n003",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n008": {
+    "kind": "detail",
+    "parentId": "n003",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n009": {
+    "kind": "list",
+    "parentId": "n002",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n010": {
+    "kind": "form",
+    "parentId": "n009",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n011": {
+    "kind": "detail",
+    "parentId": "n002",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n012": {
+    "kind": "menu",
+    "parentId": "n002",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n013": {
+    "kind": "list",
+    "parentId": "n012",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n014": {
+    "kind": "detail",
+    "parentId": "n013",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n015": {
+    "kind": "detail",
+    "parentId": "n013",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n016": {
+    "kind": "detail",
+    "parentId": "n013",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n017": {
+    "kind": "action",
+    "parentId": "n012",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n018": {
+    "kind": "menu",
+    "parentId": "n012",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n019": {
+    "kind": "menu",
+    "parentId": "n018",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n020": {
+    "kind": "list",
+    "parentId": "n019",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n021": {
+    "kind": "form",
+    "parentId": "n019",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n022": {
+    "kind": "detail",
+    "parentId": "n021",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n023": {
+    "kind": "detail",
+    "parentId": "n021",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n024": {
+    "kind": "toggle",
+    "parentId": "n021",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n025": {
+    "kind": "detail",
+    "parentId": "n021",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n026": {
+    "kind": "detail",
+    "parentId": "n021",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n027": {
+    "kind": "action",
+    "parentId": "n021",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n028": {
+    "kind": "detail",
+    "parentId": "n021",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n029": {
+    "kind": "menu",
+    "parentId": "n018",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n030": {
+    "kind": "list",
+    "parentId": "n029",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n031": {
+    "kind": "form",
+    "parentId": "n029",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n032": {
+    "kind": "detail",
+    "parentId": "n031",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n033": {
+    "kind": "choice",
+    "parentId": "n031",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n034": {
+    "kind": "toggle",
+    "parentId": "n031",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n035": {
+    "kind": "detail",
+    "parentId": "n031",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n036": {
+    "kind": "detail",
+    "parentId": "n031",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n037": {
+    "kind": "action",
+    "parentId": "n031",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n038": {
+    "kind": "detail",
+    "parentId": "n031",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n039": {
+    "kind": "menu",
+    "parentId": "n018",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n040": {
+    "kind": "list",
+    "parentId": "n039",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n041": {
+    "kind": "form",
+    "parentId": "n039",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n042": {
+    "kind": "detail",
+    "parentId": "n041",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n043": {
+    "kind": "toggle",
+    "parentId": "n041",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n044": {
+    "kind": "detail",
+    "parentId": "n041",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n045": {
+    "kind": "detail",
+    "parentId": "n041",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n046": {
+    "kind": "action",
+    "parentId": "n041",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n047": {
+    "kind": "detail",
+    "parentId": "n041",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n048": {
+    "kind": "list",
+    "parentId": "n002",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n049": {
+    "kind": "list",
+    "parentId": "n002",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n050": {
+    "kind": "form",
+    "parentId": "n049",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n051": {
+    "kind": "detail",
+    "parentId": "n050",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n052": {
+    "kind": "media",
+    "parentId": "n050",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n053": {
+    "kind": "choice",
+    "parentId": "n050",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n054": {
+    "kind": "media",
+    "parentId": "n050",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n055": {
+    "kind": "choice",
+    "parentId": "n050",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n056": {
+    "kind": "menu",
+    "parentId": "n002",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n057": {
+    "kind": "form",
+    "parentId": "n056",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n058": {
+    "kind": "choice",
+    "parentId": "n057",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n059": {
+    "kind": "action",
+    "parentId": "n057",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n060": {
+    "kind": "form",
+    "parentId": "n059",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n061": {
+    "kind": "detail",
+    "parentId": "n060",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n062": {
+    "kind": "media",
+    "parentId": "n060",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n063": {
+    "kind": "choice",
+    "parentId": "n060",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n064": {
+    "kind": "action",
+    "parentId": "n060",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n065": {
+    "kind": "form",
+    "parentId": "n056",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n066": {
+    "kind": "choice",
+    "parentId": "n065",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n067": {
+    "kind": "action",
+    "parentId": "n065",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n068": {
+    "kind": "form",
+    "parentId": "n067",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n069": {
+    "kind": "detail",
+    "parentId": "n068",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n070": {
+    "kind": "media",
+    "parentId": "n068",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n071": {
+    "kind": "choice",
+    "parentId": "n068",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n072": {
+    "kind": "action",
+    "parentId": "n068",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n073": {
+    "kind": "form",
+    "parentId": "n056",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n074": {
+    "kind": "detail",
+    "parentId": "n073",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n075": {
+    "kind": "menu",
+    "parentId": "n056",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n076": {
+    "kind": "list",
+    "parentId": "n075",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n077": {
+    "kind": "form",
+    "parentId": "n076",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n078": {
+    "kind": "detail",
+    "parentId": "n077",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n079": {
+    "kind": "detail",
+    "parentId": "n077",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n080": {
+    "kind": "detail",
+    "parentId": "n077",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n081": {
+    "kind": "media",
+    "parentId": "n077",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n082": {
+    "kind": "action",
+    "parentId": "n077",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n083": {
+    "kind": "detail",
+    "parentId": "n077",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n084": {
+    "kind": "action",
+    "parentId": "n077",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n085": {
+    "kind": "list",
+    "parentId": "n075",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n086": {
+    "kind": "form",
+    "parentId": "n075",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n087": {
+    "kind": "detail",
+    "parentId": "n086",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n088": {
+    "kind": "detail",
+    "parentId": "n086",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n089": {
+    "kind": "list",
+    "parentId": "n056",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n090": {
+    "kind": "media",
+    "parentId": "n056",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n091": {
+    "kind": "menu",
+    "parentId": "n001",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n092": {
+    "kind": "menu",
+    "parentId": "n091",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n093": {
+    "kind": "menu",
+    "parentId": "n092",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n094": {
+    "kind": "list",
+    "parentId": "n093",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n095": {
+    "kind": "menu",
+    "parentId": "n093",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n096": {
+    "kind": "action",
+    "parentId": "n095",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n097": {
+    "kind": "action",
+    "parentId": "n095",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n098": {
+    "kind": "menu",
+    "parentId": "n092",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n099": {
+    "kind": "list",
+    "parentId": "n098",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n100": {
+    "kind": "menu",
+    "parentId": "n098",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n101": {
+    "kind": "action",
+    "parentId": "n100",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n102": {
+    "kind": "list",
+    "parentId": "n091",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n103": {
+    "kind": "detail",
+    "parentId": "n102",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n104": {
+    "kind": "detail",
+    "parentId": "n102",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n105": {
+    "kind": "detail",
+    "parentId": "n102",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n106": {
+    "kind": "menu",
+    "parentId": "n102",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n107": {
+    "kind": "list",
+    "parentId": "n106",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n108": {
+    "kind": "form",
+    "parentId": "n106",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n109": {
+    "kind": "detail",
+    "parentId": "n108",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n110": {
+    "kind": "choice",
+    "parentId": "n108",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n111": {
+    "kind": "choice",
+    "parentId": "n110",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n112": {
+    "kind": "list",
+    "parentId": "n111",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n113": {
+    "kind": "action",
+    "parentId": "n112",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n114": {
+    "kind": "action",
+    "parentId": "n108",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n115": {
+    "kind": "list",
+    "parentId": "n091",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n116": {
+    "kind": "list",
+    "parentId": "n115",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n117": {
+    "kind": "form",
+    "parentId": "n115",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n118": {
+    "kind": "detail",
+    "parentId": "n117",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n119": {
+    "kind": "choice",
+    "parentId": "n117",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n120": {
+    "kind": "menu",
+    "parentId": "n119",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n121": {
+    "kind": "choice",
+    "parentId": "n120",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n122": {
+    "kind": "action",
+    "parentId": "n121",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n123": {
+    "kind": "action",
+    "parentId": "n117",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n124": {
+    "kind": "list",
+    "parentId": "n091",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n125": {
+    "kind": "detail",
+    "parentId": "n091",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n126": {
+    "kind": "media",
+    "parentId": "n091",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n127": {
+    "kind": "menu",
+    "parentId": "n001",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n128": {
+    "kind": "form",
+    "parentId": "n127",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n129": {
+    "kind": "list",
+    "parentId": "n127",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n130": {
+    "kind": "choice",
+    "parentId": "n129",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n131": {
+    "kind": "detail",
+    "parentId": "n130",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n132": {
+    "kind": "detail",
+    "parentId": "n130",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n133": {
+    "kind": "detail",
+    "parentId": "n130",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n134": {
+    "kind": "detail",
+    "parentId": "n130",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n135": {
+    "kind": "detail",
+    "parentId": "n130",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n136": {
+    "kind": "detail",
+    "parentId": "n130",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n137": {
+    "kind": "detail",
+    "parentId": "n127",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n138": {
+    "kind": "toggle",
+    "parentId": "n127",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n139": {
+    "kind": "choice",
+    "parentId": "n127",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n140": {
+    "kind": "choice",
+    "parentId": "n139",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n141": {
+    "kind": "choice",
+    "parentId": "n139",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n142": {
+    "kind": "choice",
+    "parentId": "n139",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n143": {
+    "kind": "detail",
+    "parentId": "n142",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n144": {
+    "kind": "detail",
+    "parentId": "n142",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n145": {
+    "kind": "detail",
+    "parentId": "n142",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n146": {
+    "kind": "detail",
+    "parentId": "n142",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n147": {
+    "kind": "action",
+    "parentId": "n142",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n148": {
+    "kind": "action",
+    "parentId": "n142",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n149": {
+    "kind": "list",
+    "parentId": "n127",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n150": {
+    "kind": "detail",
+    "parentId": "n149",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n151": {
+    "kind": "detail",
+    "parentId": "n149",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n152": {
+    "kind": "detail",
+    "parentId": "n149",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n153": {
+    "kind": "detail",
+    "parentId": "n149",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n154": {
+    "kind": "detail",
+    "parentId": "n149",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n155": {
+    "kind": "form",
+    "parentId": "n149",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n156": {
+    "kind": "detail",
+    "parentId": "n155",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n157": {
+    "kind": "detail",
+    "parentId": "n155",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n158": {
+    "kind": "media",
+    "parentId": "n155",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n159": {
+    "kind": "action",
+    "parentId": "n155",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n160": {
+    "kind": "menu",
+    "parentId": "n001",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n161": {
+    "kind": "menu",
+    "parentId": "n160",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n162": {
+    "kind": "list",
+    "parentId": "n161",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n163": {
+    "kind": "form",
+    "parentId": "n161",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n164": {
+    "kind": "detail",
+    "parentId": "n163",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n165": {
+    "kind": "media",
+    "parentId": "n163",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n166": {
+    "kind": "choice",
+    "parentId": "n163",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n167": {
+    "kind": "action",
+    "parentId": "n163",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n168": {
+    "kind": "list",
+    "parentId": "n160",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n169": {
+    "kind": "list",
+    "parentId": "n168",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n170": {
+    "kind": "action",
+    "parentId": "n169",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n171": {
+    "kind": "list",
+    "parentId": "n168",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n172": {
+    "kind": "list",
+    "parentId": "n171",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n173": {
+    "kind": "form",
+    "parentId": "n172",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n174": {
+    "kind": "detail",
+    "parentId": "n173",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n175": {
+    "kind": "media",
+    "parentId": "n173",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n176": {
+    "kind": "detail",
+    "parentId": "n173",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n177": {
+    "kind": "form",
+    "parentId": "n173",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n178": {
+    "kind": "form",
+    "parentId": "n173",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n179": {
+    "kind": "choice",
+    "parentId": "n178",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n180": {
+    "kind": "media",
+    "parentId": "n178",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n181": {
+    "kind": "action",
+    "parentId": "n178",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n182": {
+    "kind": "action",
+    "parentId": "n171",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n183": {
+    "kind": "action",
+    "parentId": "n171",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n184": {
+    "kind": "action",
+    "parentId": "n171",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n185": {
+    "kind": "form",
+    "parentId": "n171",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n186": {
+    "kind": "detail",
+    "parentId": "n185",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n187": {
+    "kind": "detail",
+    "parentId": "n185",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n188": {
+    "kind": "menu",
+    "parentId": "n185",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n189": {
+    "kind": "detail",
+    "parentId": "n188",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n190": {
+    "kind": "toggle",
+    "parentId": "n185",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n191": {
+    "kind": "action",
+    "parentId": "n185",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n192": {
+    "kind": "detail",
+    "parentId": "n160",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n193": {
+    "kind": "list",
+    "parentId": "n160",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n194": {
+    "kind": "menu",
+    "parentId": "n001",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n195": {
+    "kind": "form",
+    "parentId": "n194",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n196": {
+    "kind": "media",
+    "parentId": "n195",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n197": {
+    "kind": "detail",
+    "parentId": "n195",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n198": {
+    "kind": "detail",
+    "parentId": "n195",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n199": {
+    "kind": "detail",
+    "parentId": "n195",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n200": {
+    "kind": "form",
+    "parentId": "n195",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n201": {
+    "kind": "media",
+    "parentId": "n200",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n202": {
+    "kind": "detail",
+    "parentId": "n200",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n203": {
+    "kind": "detail",
+    "parentId": "n200",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n204": {
+    "kind": "detail",
+    "parentId": "n200",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n205": {
+    "kind": "detail",
+    "parentId": "n200",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n206": {
+    "kind": "detail",
+    "parentId": "n200",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n207": {
+    "kind": "detail",
+    "parentId": "n200",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n208": {
+    "kind": "detail",
+    "parentId": "n200",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n209": {
+    "kind": "detail",
+    "parentId": "n200",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n210": {
+    "kind": "detail",
+    "parentId": "n200",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n211": {
+    "kind": "menu",
+    "parentId": "n194",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n212": {
+    "kind": "list",
+    "parentId": "n211",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n213": {
+    "kind": "detail",
+    "parentId": "n212",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n214": {
+    "kind": "menu",
+    "parentId": "n194",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n215": {
+    "kind": "form",
+    "parentId": "n214",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n216": {
+    "kind": "media",
+    "parentId": "n215",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n217": {
+    "kind": "detail",
+    "parentId": "n215",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n218": {
+    "kind": "detail",
+    "parentId": "n215",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n219": {
+    "kind": "choice",
+    "parentId": "n214",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n220": {
+    "kind": "detail",
+    "parentId": "n214",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n221": {
+    "kind": "action",
+    "parentId": "n214",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n222": {
+    "kind": "list",
+    "parentId": "n194",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n223": {
+    "kind": "list",
+    "parentId": "n222",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n224": {
+    "kind": "detail",
+    "parentId": "n223",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n225": {
+    "kind": "detail",
+    "parentId": "n223",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n226": {
+    "kind": "menu",
+    "parentId": "n222",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n227": {
+    "kind": "form",
+    "parentId": "n226",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n228": {
+    "kind": "detail",
+    "parentId": "n227",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n229": {
+    "kind": "choice",
+    "parentId": "n227",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n230": {
+    "kind": "choice",
+    "parentId": "n229",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n231": {
+    "kind": "list",
+    "parentId": "n230",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n232": {
+    "kind": "action",
+    "parentId": "n231",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n233": {
+    "kind": "action",
+    "parentId": "n227",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n234": {
+    "kind": "choice",
+    "parentId": "n222",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n235": {
+    "kind": "action",
+    "parentId": "n222",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n236": {
+    "kind": "action",
+    "parentId": "n222",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n237": {
+    "kind": "form",
+    "parentId": "n222",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n238": {
+    "kind": "detail",
+    "parentId": "n237",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n239": {
+    "kind": "detail",
+    "parentId": "n237",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n240": {
+    "kind": "media",
+    "parentId": "n237",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n241": {
+    "kind": "media",
+    "parentId": "n237",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n242": {
+    "kind": "media",
+    "parentId": "n237",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n243": {
+    "kind": "media",
+    "parentId": "n237",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n244": {
+    "kind": "menu",
+    "parentId": "n237",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n245": {
+    "kind": "action",
+    "parentId": "n244",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n246": {
+    "kind": "action",
+    "parentId": "n237",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n247": {
+    "kind": "list",
+    "parentId": "n194",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n248": {
+    "kind": "list",
+    "parentId": "n247",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n249": {
+    "kind": "detail",
+    "parentId": "n248",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n250": {
+    "kind": "detail",
+    "parentId": "n248",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n251": {
+    "kind": "media",
+    "parentId": "n248",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n252": {
+    "kind": "media",
+    "parentId": "n248",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n253": {
+    "kind": "media",
+    "parentId": "n248",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n254": {
+    "kind": "media",
+    "parentId": "n248",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n255": {
+    "kind": "media",
+    "parentId": "n248",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n256": {
+    "kind": "media",
+    "parentId": "n248",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n257": {
+    "kind": "media",
+    "parentId": "n248",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n258": {
+    "kind": "detail",
+    "parentId": "n248",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n259": {
+    "kind": "media",
+    "parentId": "n248",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n260": {
+    "kind": "detail",
+    "parentId": "n248",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n261": {
+    "kind": "detail",
+    "parentId": "n247",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n262": {
+    "kind": "action",
+    "parentId": "n247",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n263": {
+    "kind": "form",
+    "parentId": "n194",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n264": {
+    "kind": "media",
+    "parentId": "n263",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n265": {
+    "kind": "detail",
+    "parentId": "n263",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n266": {
+    "kind": "detail",
+    "parentId": "n263",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n267": {
+    "kind": "media",
+    "parentId": "n263",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n268": {
+    "kind": "detail",
+    "parentId": "n263",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n269": {
+    "kind": "detail",
+    "parentId": "n263",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n270": {
+    "kind": "detail",
+    "parentId": "n194",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n271": {
+    "kind": "detail",
+    "parentId": "n194",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n272": {
+    "kind": "menu",
+    "parentId": "n194",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n273": {
+    "kind": "menu",
+    "parentId": "n272",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n274": {
+    "kind": "form",
+    "parentId": "n273",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n275": {
+    "kind": "detail",
+    "parentId": "n273",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n276": {
+    "kind": "form",
+    "parentId": "n273",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n277": {
+    "kind": "list",
+    "parentId": "n273",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n278": {
+    "kind": "detail",
+    "parentId": "n273",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n279": {
+    "kind": "action",
+    "parentId": "n273",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n280": {
+    "kind": "action",
+    "parentId": "n273",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n281": {
+    "kind": "menu",
+    "parentId": "n272",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n282": {
+    "kind": "toggle",
+    "parentId": "n281",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n283": {
+    "kind": "toggle",
+    "parentId": "n281",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n284": {
+    "kind": "toggle",
+    "parentId": "n281",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n285": {
+    "kind": "toggle",
+    "parentId": "n281",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n286": {
+    "kind": "menu",
+    "parentId": "n272",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n287": {
+    "kind": "toggle",
+    "parentId": "n286",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n288": {
+    "kind": "toggle",
+    "parentId": "n286",
+    "control": "toggle",
+    "selectionMode": "single"
+  },
+  "n289": {
+    "kind": "choice",
+    "parentId": "n286",
+    "control": "choice",
+    "selectionMode": "multiple"
+  },
+  "n290": {
+    "kind": "media",
+    "parentId": "n289",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n291": {
+    "kind": "detail",
+    "parentId": "n289",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n292": {
+    "kind": "media",
+    "parentId": "n289",
+    "control": "media",
+    "selectionMode": "single"
+  },
+  "n293": {
+    "kind": "detail",
+    "parentId": "n289",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n294": {
+    "kind": "choice",
+    "parentId": "n286",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n295": {
+    "kind": "detail",
+    "parentId": "n294",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n296": {
+    "kind": "detail",
+    "parentId": "n294",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n297": {
+    "kind": "choice",
+    "parentId": "n286",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n298": {
+    "kind": "detail",
+    "parentId": "n297",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n299": {
+    "kind": "detail",
+    "parentId": "n297",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n300": {
+    "kind": "menu",
+    "parentId": "n272",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n301": {
+    "kind": "detail",
+    "parentId": "n300",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n302": {
+    "kind": "list",
+    "parentId": "n194",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n303": {
+    "kind": "list",
+    "parentId": "n302",
+    "control": "list",
+    "selectionMode": "single"
+  },
+  "n304": {
+    "kind": "detail",
+    "parentId": "n302",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n305": {
+    "kind": "action",
+    "parentId": "n194",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n306": {
+    "kind": "form",
+    "parentId": null,
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n307": {
+    "kind": "detail",
+    "parentId": "n306",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n308": {
+    "kind": "form",
+    "parentId": "n306",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n309": {
+    "kind": "detail",
+    "parentId": "n308",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n310": {
+    "kind": "detail",
+    "parentId": "n308",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n311": {
+    "kind": "detail",
+    "parentId": "n308",
+    "control": "detail",
+    "selectionMode": "single"
+  },
+  "n312": {
+    "kind": "form",
+    "parentId": "n308",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n313": {
+    "kind": "detail",
+    "parentId": "n312",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n314": {
+    "kind": "action",
+    "parentId": "n312",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n315": {
+    "kind": "menu",
+    "parentId": "n314",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n316": {
+    "kind": "choice",
+    "parentId": "n315",
+    "control": "choice",
+    "selectionMode": "single"
+  },
+  "n317": {
+    "kind": "form",
+    "parentId": "n316",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n318": {
+    "kind": "form",
+    "parentId": "n317",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n319": {
+    "kind": "detail",
+    "parentId": "n317",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n320": {
+    "kind": "action",
+    "parentId": "n317",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n321": {
+    "kind": "form",
+    "parentId": "n308",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n322": {
+    "kind": "form",
+    "parentId": "n306",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n323": {
+    "kind": "detail",
+    "parentId": "n322",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n324": {
+    "kind": "detail",
+    "parentId": "n322",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n325": {
+    "kind": "detail",
+    "parentId": "n322",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n326": {
+    "kind": "detail",
+    "parentId": "n322",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n327": {
+    "kind": "form",
+    "parentId": "n322",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n328": {
+    "kind": "menu",
+    "parentId": "n327",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n329": {
+    "kind": "menu",
+    "parentId": "n328",
+    "control": "menu",
+    "selectionMode": "single"
+  },
+  "n330": {
+    "kind": "form",
+    "parentId": "n329",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n331": {
+    "kind": "form",
+    "parentId": "n330",
+    "control": "form",
+    "selectionMode": "single"
+  },
+  "n332": {
+    "kind": "form",
+    "parentId": "n331",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n333": {
+    "kind": "detail",
+    "parentId": "n331",
+    "control": "field",
+    "selectionMode": "single"
+  },
+  "n334": {
+    "kind": "action",
+    "parentId": "n331",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n335": {
+    "kind": "action",
+    "parentId": "n334",
+    "control": "action",
+    "selectionMode": "single"
+  },
+  "n336": {
+    "kind": "detail",
+    "parentId": "n322",
+    "control": "detail",
+    "selectionMode": "single"
+  }
+}

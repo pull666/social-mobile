@@ -1,0 +1,14 @@
+# Dependencies and generated output
+node_modules/
+dist/
+web-build/
+coverage/
+.expo/
+.kotlin/
+/android/
+/ios/
+expo-env.d.ts
+*.tsbuildinfo
+
+# Package-manager generated file
+package-lock.json

@@ -1,0 +1,1786 @@
+[
+  {
+    "id": "n001",
+    "title": "首页",
+    "children": [
+      {
+        "id": "n002",
+        "title": "信息",
+        "children": [
+          {
+            "id": "n003",
+            "title": "聊天分类",
+            "children": [
+              {
+                "id": "n004",
+                "title": "全部",
+                "children": []
+              },
+              {
+                "id": "n005",
+                "title": "未读",
+                "children": []
+              },
+              {
+                "id": "n006",
+                "title": "单聊",
+                "children": []
+              },
+              {
+                "id": "n007",
+                "title": "群聊",
+                "children": []
+              },
+              {
+                "id": "n008",
+                "title": "频道",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "n009",
+            "title": "聊天分组",
+            "children": [
+              {
+                "id": "n010",
+                "title": "新增分组",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "n011",
+            "title": "搜索",
+            "children": []
+          },
+          {
+            "id": "n012",
+            "title": "消息盒子",
+            "children": [
+              {
+                "id": "n013",
+                "title": "列表",
+                "children": [
+                  {
+                    "id": "n014",
+                    "title": "群聊",
+                    "children": []
+                  },
+                  {
+                    "id": "n015",
+                    "title": "圈子",
+                    "children": []
+                  },
+                  {
+                    "id": "n016",
+                    "title": "朋友圈",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "n017",
+                "title": "删除",
+                "children": []
+              },
+              {
+                "id": "n018",
+                "title": "设置",
+                "children": [
+                  {
+                    "id": "n019",
+                    "title": "群聊订阅",
+                    "children": [
+                      {
+                        "id": "n020",
+                        "title": "订阅列表",
+                        "children": []
+                      },
+                      {
+                        "id": "n021",
+                        "title": "添加订阅",
+                        "children": [
+                          {
+                            "id": "n022",
+                            "title": "关键词",
+                            "children": []
+                          },
+                          {
+                            "id": "n023",
+                            "title": "添加群聊",
+                            "children": []
+                          },
+                          {
+                            "id": "n024",
+                            "title": "自动发送",
+                            "children": []
+                          },
+                          {
+                            "id": "n025",
+                            "title": "笔记",
+                            "children": []
+                          },
+                          {
+                            "id": "n026",
+                            "title": "收藏",
+                            "children": []
+                          },
+                          {
+                            "id": "n027",
+                            "title": "立即设置",
+                            "children": []
+                          },
+                          {
+                            "id": "n028",
+                            "title": "规则说明",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n029",
+                    "title": "圈子订阅",
+                    "children": [
+                      {
+                        "id": "n030",
+                        "title": "订阅列表",
+                        "children": []
+                      },
+                      {
+                        "id": "n031",
+                        "title": "添加订阅",
+                        "children": [
+                          {
+                            "id": "n032",
+                            "title": "关键词",
+                            "children": []
+                          },
+                          {
+                            "id": "n033",
+                            "title": "添加圈子",
+                            "children": []
+                          },
+                          {
+                            "id": "n034",
+                            "title": "自动发送",
+                            "children": []
+                          },
+                          {
+                            "id": "n035",
+                            "title": "笔记",
+                            "children": []
+                          },
+                          {
+                            "id": "n036",
+                            "title": "收藏",
+                            "children": []
+                          },
+                          {
+                            "id": "n037",
+                            "title": "立即设置",
+                            "children": []
+                          },
+                          {
+                            "id": "n038",
+                            "title": "规则说明",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n039",
+                    "title": "朋友圈订阅",
+                    "children": [
+                      {
+                        "id": "n040",
+                        "title": "订阅列表",
+                        "children": []
+                      },
+                      {
+                        "id": "n041",
+                        "title": "添加订阅",
+                        "children": [
+                          {
+                            "id": "n042",
+                            "title": "关键词",
+                            "children": []
+                          },
+                          {
+                            "id": "n043",
+                            "title": "自动发送",
+                            "children": []
+                          },
+                          {
+                            "id": "n044",
+                            "title": "笔记",
+                            "children": []
+                          },
+                          {
+                            "id": "n045",
+                            "title": "收藏",
+                            "children": []
+                          },
+                          {
+                            "id": "n046",
+                            "title": "立即设置",
+                            "children": []
+                          },
+                          {
+                            "id": "n047",
+                            "title": "规则说明",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n048",
+            "title": "归档消息",
+            "children": []
+          },
+          {
+            "id": "n049",
+            "title": "动态消息",
+            "children": [
+              {
+                "id": "n050",
+                "title": "发布圈子",
+                "children": [
+                  {
+                    "id": "n051",
+                    "title": "文字",
+                    "children": []
+                  },
+                  {
+                    "id": "n052",
+                    "title": "图片",
+                    "children": []
+                  },
+                  {
+                    "id": "n053",
+                    "title": "选择圈子",
+                    "children": []
+                  },
+                  {
+                    "id": "n054",
+                    "title": "喇叭",
+                    "children": []
+                  },
+                  {
+                    "id": "n055",
+                    "title": "选择城市",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n056",
+            "title": "更多按钮",
+            "children": [
+              {
+                "id": "n057",
+                "title": "新建群聊",
+                "children": [
+                  {
+                    "id": "n058",
+                    "title": "好友列表",
+                    "children": []
+                  },
+                  {
+                    "id": "n059",
+                    "title": "下一步",
+                    "children": [
+                      {
+                        "id": "n060",
+                        "title": "新建群聊",
+                        "children": [
+                          {
+                            "id": "n061",
+                            "title": "群聊名称",
+                            "children": []
+                          },
+                          {
+                            "id": "n062",
+                            "title": "上传群头像",
+                            "children": []
+                          },
+                          {
+                            "id": "n063",
+                            "title": "群组成员",
+                            "children": []
+                          },
+                          {
+                            "id": "n064",
+                            "title": "创建",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "n065",
+                "title": "新建频道",
+                "children": [
+                  {
+                    "id": "n066",
+                    "title": "好友列表",
+                    "children": []
+                  },
+                  {
+                    "id": "n067",
+                    "title": "下一步",
+                    "children": [
+                      {
+                        "id": "n068",
+                        "title": "新建频道",
+                        "children": [
+                          {
+                            "id": "n069",
+                            "title": "频道名称",
+                            "children": []
+                          },
+                          {
+                            "id": "n070",
+                            "title": "上传频道头像",
+                            "children": []
+                          },
+                          {
+                            "id": "n071",
+                            "title": "初始订阅者",
+                            "children": []
+                          },
+                          {
+                            "id": "n072",
+                            "title": "创建",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "n073",
+                "title": "添加好友",
+                "children": [
+                  {
+                    "id": "n074",
+                    "title": "搜索账号/手机号",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "n075",
+                "title": "坐席管理",
+                "children": [
+                  {
+                    "id": "n076",
+                    "title": "普通坐席列表",
+                    "children": [
+                      {
+                        "id": "n077",
+                        "title": "坐席信息",
+                        "children": [
+                          {
+                            "id": "n078",
+                            "title": "过期时间",
+                            "children": []
+                          },
+                          {
+                            "id": "n079",
+                            "title": "名字",
+                            "children": []
+                          },
+                          {
+                            "id": "n080",
+                            "title": "链接",
+                            "children": []
+                          },
+                          {
+                            "id": "n081",
+                            "title": "二维码",
+                            "children": []
+                          },
+                          {
+                            "id": "n082",
+                            "title": "复制连接",
+                            "children": []
+                          },
+                          {
+                            "id": "n083",
+                            "title": "查看对话",
+                            "children": []
+                          },
+                          {
+                            "id": "n084",
+                            "title": "结束对话",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n085",
+                    "title": "专属坐席列表",
+                    "children": []
+                  },
+                  {
+                    "id": "n086",
+                    "title": "新建",
+                    "children": [
+                      {
+                        "id": "n087",
+                        "title": "普通坐席",
+                        "children": []
+                      },
+                      {
+                        "id": "n088",
+                        "title": "专属坐席",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "n089",
+                "title": "聊天分组",
+                "children": []
+              },
+              {
+                "id": "n090",
+                "title": "扫一扫",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n091",
+        "title": "联系人",
+        "children": [
+          {
+            "id": "n092",
+            "title": "新的朋友",
+            "children": [
+              {
+                "id": "n093",
+                "title": "新的朋友",
+                "children": [
+                  {
+                    "id": "n094",
+                    "title": "列表",
+                    "children": []
+                  },
+                  {
+                    "id": "n095",
+                    "title": "菜单",
+                    "children": [
+                      {
+                        "id": "n096",
+                        "title": "批量审核",
+                        "children": []
+                      },
+                      {
+                        "id": "n097",
+                        "title": "删除记录",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "n098",
+                "title": "新的群组",
+                "children": [
+                  {
+                    "id": "n099",
+                    "title": "列表",
+                    "children": []
+                  },
+                  {
+                    "id": "n100",
+                    "title": "菜单",
+                    "children": [
+                      {
+                        "id": "n101",
+                        "title": "删除记录",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n102",
+            "title": "我的群组",
+            "children": [
+              {
+                "id": "n103",
+                "title": "我加入的",
+                "children": []
+              },
+              {
+                "id": "n104",
+                "title": "我创建的",
+                "children": []
+              },
+              {
+                "id": "n105",
+                "title": "我管理的",
+                "children": []
+              },
+              {
+                "id": "n106",
+                "title": "群组分组",
+                "children": [
+                  {
+                    "id": "n107",
+                    "title": "列表",
+                    "children": []
+                  },
+                  {
+                    "id": "n108",
+                    "title": "新增",
+                    "children": [
+                      {
+                        "id": "n109",
+                        "title": "分组名字",
+                        "children": []
+                      },
+                      {
+                        "id": "n110",
+                        "title": "包含群组",
+                        "children": [
+                          {
+                            "id": "n111",
+                            "title": "添加群组",
+                            "children": [
+                              {
+                                "id": "n112",
+                                "title": "群组列表",
+                                "children": [
+                                  {
+                                    "id": "n113",
+                                    "title": "确定按钮",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "n114",
+                        "title": "保存",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n115",
+            "title": "标签分组",
+            "children": [
+              {
+                "id": "n116",
+                "title": "标签列表",
+                "children": []
+              },
+              {
+                "id": "n117",
+                "title": "新建",
+                "children": [
+                  {
+                    "id": "n118",
+                    "title": "分组名字",
+                    "children": []
+                  },
+                  {
+                    "id": "n119",
+                    "title": "包含好友",
+                    "children": [
+                      {
+                        "id": "n120",
+                        "title": "添加好友",
+                        "children": [
+                          {
+                            "id": "n121",
+                            "title": "好友列表",
+                            "children": [
+                              {
+                                "id": "n122",
+                                "title": "确定",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n123",
+                    "title": "保存",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n124",
+            "title": "联系人列表",
+            "children": []
+          },
+          {
+            "id": "n125",
+            "title": "搜索",
+            "children": []
+          },
+          {
+            "id": "n126",
+            "title": "扫码",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n127",
+        "title": "圈子",
+        "children": [
+          {
+            "id": "n128",
+            "title": "发布圈子",
+            "children": []
+          },
+          {
+            "id": "n129",
+            "title": "圈子互动",
+            "children": [
+              {
+                "id": "n130",
+                "title": "过滤",
+                "children": [
+                  {
+                    "id": "n131",
+                    "title": "全部互动",
+                    "children": []
+                  },
+                  {
+                    "id": "n132",
+                    "title": "评论",
+                    "children": []
+                  },
+                  {
+                    "id": "n133",
+                    "title": "回复",
+                    "children": []
+                  },
+                  {
+                    "id": "n134",
+                    "title": "@我的",
+                    "children": []
+                  },
+                  {
+                    "id": "n135",
+                    "title": "动态点赞",
+                    "children": []
+                  },
+                  {
+                    "id": "n136",
+                    "title": "评论点赞",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n137",
+            "title": "我的动态",
+            "children": []
+          },
+          {
+            "id": "n138",
+            "title": "声音开关",
+            "children": []
+          },
+          {
+            "id": "n139",
+            "title": "筛选",
+            "children": [
+              {
+                "id": "n140",
+                "title": "选择圈子",
+                "children": []
+              },
+              {
+                "id": "n141",
+                "title": "选择地区",
+                "children": []
+              },
+              {
+                "id": "n142",
+                "title": "选择内容来源",
+                "children": [
+                  {
+                    "id": "n143",
+                    "title": "全部来源",
+                    "children": []
+                  },
+                  {
+                    "id": "n144",
+                    "title": "仅圈内",
+                    "children": []
+                  },
+                  {
+                    "id": "n145",
+                    "title": "众归",
+                    "children": []
+                  },
+                  {
+                    "id": "n146",
+                    "title": "帮办",
+                    "children": []
+                  },
+                  {
+                    "id": "n147",
+                    "title": "清空条件",
+                    "children": []
+                  },
+                  {
+                    "id": "n148",
+                    "title": "保存条件",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n149",
+            "title": "我的圈子",
+            "children": [
+              {
+                "id": "n150",
+                "title": "我加入的",
+                "children": []
+              },
+              {
+                "id": "n151",
+                "title": "我管理的",
+                "children": []
+              },
+              {
+                "id": "n152",
+                "title": "我创建的",
+                "children": []
+              },
+              {
+                "id": "n153",
+                "title": "我申请的",
+                "children": []
+              },
+              {
+                "id": "n154",
+                "title": "图标设置",
+                "children": []
+              },
+              {
+                "id": "n155",
+                "title": "创建圈子",
+                "children": [
+                  {
+                    "id": "n156",
+                    "title": "名称",
+                    "children": []
+                  },
+                  {
+                    "id": "n157",
+                    "title": "简介",
+                    "children": []
+                  },
+                  {
+                    "id": "n158",
+                    "title": "头像",
+                    "children": []
+                  },
+                  {
+                    "id": "n159",
+                    "title": "确认订单",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n160",
+        "title": "发现",
+        "children": [
+          {
+            "id": "n161",
+            "title": "朋友圈",
+            "children": [
+              {
+                "id": "n162",
+                "title": "列表",
+                "children": []
+              },
+              {
+                "id": "n163",
+                "title": "发朋友圈",
+                "children": [
+                  {
+                    "id": "n164",
+                    "title": "文字",
+                    "children": []
+                  },
+                  {
+                    "id": "n165",
+                    "title": "图片",
+                    "children": []
+                  },
+                  {
+                    "id": "n166",
+                    "title": "展示范围",
+                    "children": []
+                  },
+                  {
+                    "id": "n167",
+                    "title": "发布",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n168",
+            "title": "相册大厅",
+            "children": [
+              {
+                "id": "n169",
+                "title": "列表",
+                "children": [
+                  {
+                    "id": "n170",
+                    "title": "分享",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "n171",
+                "title": "我的相册",
+                "children": [
+                  {
+                    "id": "n172",
+                    "title": "列表",
+                    "children": [
+                      {
+                        "id": "n173",
+                        "title": "item",
+                        "children": [
+                          {
+                            "id": "n174",
+                            "title": "简介",
+                            "children": []
+                          },
+                          {
+                            "id": "n175",
+                            "title": "图片",
+                            "children": []
+                          },
+                          {
+                            "id": "n176",
+                            "title": "标签",
+                            "children": []
+                          },
+                          {
+                            "id": "n177",
+                            "title": "编辑",
+                            "children": []
+                          },
+                          {
+                            "id": "n178",
+                            "title": "上传",
+                            "children": [
+                              {
+                                "id": "n179",
+                                "title": "目标相册",
+                                "children": []
+                              },
+                              {
+                                "id": "n180",
+                                "title": "选择图片",
+                                "children": []
+                              },
+                              {
+                                "id": "n181",
+                                "title": "上传按钮",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n182",
+                    "title": "全选",
+                    "children": []
+                  },
+                  {
+                    "id": "n183",
+                    "title": "删除",
+                    "children": []
+                  },
+                  {
+                    "id": "n184",
+                    "title": "分享",
+                    "children": []
+                  },
+                  {
+                    "id": "n185",
+                    "title": "新建",
+                    "children": [
+                      {
+                        "id": "n186",
+                        "title": "标题",
+                        "children": []
+                      },
+                      {
+                        "id": "n187",
+                        "title": "简介",
+                        "children": []
+                      },
+                      {
+                        "id": "n188",
+                        "title": "标签",
+                        "children": [
+                          {
+                            "id": "n189",
+                            "title": "添加",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "n190",
+                        "title": "是否公开",
+                        "children": []
+                      },
+                      {
+                        "id": "n191",
+                        "title": "保存按钮",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n192",
+            "title": "消息盒子",
+            "children": []
+          },
+          {
+            "id": "n193",
+            "title": "商城",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n194",
+        "title": "我的",
+        "children": [
+          {
+            "id": "n195",
+            "title": "基础信息",
+            "children": [
+              {
+                "id": "n196",
+                "title": "头像",
+                "children": []
+              },
+              {
+                "id": "n197",
+                "title": "昵称",
+                "children": []
+              },
+              {
+                "id": "n198",
+                "title": "账号",
+                "children": []
+              },
+              {
+                "id": "n199",
+                "title": "信誉值",
+                "children": []
+              },
+              {
+                "id": "n200",
+                "title": "账号设置",
+                "children": [
+                  {
+                    "id": "n201",
+                    "title": "头像",
+                    "children": []
+                  },
+                  {
+                    "id": "n202",
+                    "title": "昵称",
+                    "children": []
+                  },
+                  {
+                    "id": "n203",
+                    "title": "账号",
+                    "children": []
+                  },
+                  {
+                    "id": "n204",
+                    "title": "头像框",
+                    "children": []
+                  },
+                  {
+                    "id": "n205",
+                    "title": "图标",
+                    "children": []
+                  },
+                  {
+                    "id": "n206",
+                    "title": "性别",
+                    "children": []
+                  },
+                  {
+                    "id": "n207",
+                    "title": "简介",
+                    "children": []
+                  },
+                  {
+                    "id": "n208",
+                    "title": "手机",
+                    "children": []
+                  },
+                  {
+                    "id": "n209",
+                    "title": "邮箱",
+                    "children": []
+                  },
+                  {
+                    "id": "n210",
+                    "title": "生日",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n211",
+            "title": "跑马灯",
+            "children": [
+              {
+                "id": "n212",
+                "title": "公告列表",
+                "children": [
+                  {
+                    "id": "n213",
+                    "title": "公告详情",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n214",
+            "title": "会员中心",
+            "children": [
+              {
+                "id": "n215",
+                "title": "基础信息",
+                "children": [
+                  {
+                    "id": "n216",
+                    "title": "头像",
+                    "children": []
+                  },
+                  {
+                    "id": "n217",
+                    "title": "名字",
+                    "children": []
+                  },
+                  {
+                    "id": "n218",
+                    "title": "账号",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "n219",
+                "title": "开通会员类型",
+                "children": []
+              },
+              {
+                "id": "n220",
+                "title": "会员特权",
+                "children": []
+              },
+              {
+                "id": "n221",
+                "title": "开通",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "n222",
+            "title": "我的笔记",
+            "children": [
+              {
+                "id": "n223",
+                "title": "列表",
+                "children": [
+                  {
+                    "id": "n224",
+                    "title": "全部",
+                    "children": []
+                  },
+                  {
+                    "id": "n225",
+                    "title": "未分组",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "n226",
+                "title": "笔记分组",
+                "children": [
+                  {
+                    "id": "n227",
+                    "title": "新增",
+                    "children": [
+                      {
+                        "id": "n228",
+                        "title": "分组名称",
+                        "children": []
+                      },
+                      {
+                        "id": "n229",
+                        "title": "包含笔记",
+                        "children": [
+                          {
+                            "id": "n230",
+                            "title": "添加笔记",
+                            "children": [
+                              {
+                                "id": "n231",
+                                "title": "笔记列表",
+                                "children": [
+                                  {
+                                    "id": "n232",
+                                    "title": "确定",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "n233",
+                        "title": "保存吗",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "n234",
+                "title": "移动分组",
+                "children": []
+              },
+              {
+                "id": "n235",
+                "title": "分享笔记",
+                "children": []
+              },
+              {
+                "id": "n236",
+                "title": "删除笔记",
+                "children": []
+              },
+              {
+                "id": "n237",
+                "title": "新增笔记",
+                "children": [
+                  {
+                    "id": "n238",
+                    "title": "标题",
+                    "children": []
+                  },
+                  {
+                    "id": "n239",
+                    "title": "文字",
+                    "children": []
+                  },
+                  {
+                    "id": "n240",
+                    "title": "图片",
+                    "children": []
+                  },
+                  {
+                    "id": "n241",
+                    "title": "视频",
+                    "children": []
+                  },
+                  {
+                    "id": "n242",
+                    "title": "名片",
+                    "children": []
+                  },
+                  {
+                    "id": "n243",
+                    "title": "群名片",
+                    "children": []
+                  },
+                  {
+                    "id": "n244",
+                    "title": "预览",
+                    "children": [
+                      {
+                        "id": "n245",
+                        "title": "截图",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n246",
+                    "title": "保存",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n247",
+            "title": "我的收藏",
+            "children": [
+              {
+                "id": "n248",
+                "title": "列表",
+                "children": [
+                  {
+                    "id": "n249",
+                    "title": "全部类型",
+                    "children": []
+                  },
+                  {
+                    "id": "n250",
+                    "title": "文字",
+                    "children": []
+                  },
+                  {
+                    "id": "n251",
+                    "title": "图片",
+                    "children": []
+                  },
+                  {
+                    "id": "n252",
+                    "title": "视频",
+                    "children": []
+                  },
+                  {
+                    "id": "n253",
+                    "title": "文件",
+                    "children": []
+                  },
+                  {
+                    "id": "n254",
+                    "title": "语音",
+                    "children": []
+                  },
+                  {
+                    "id": "n255",
+                    "title": "位置",
+                    "children": []
+                  },
+                  {
+                    "id": "n256",
+                    "title": "个人名片",
+                    "children": []
+                  },
+                  {
+                    "id": "n257",
+                    "title": "群名片",
+                    "children": []
+                  },
+                  {
+                    "id": "n258",
+                    "title": "聊天记录",
+                    "children": []
+                  },
+                  {
+                    "id": "n259",
+                    "title": "圈子名片",
+                    "children": []
+                  },
+                  {
+                    "id": "n260",
+                    "title": "笔记",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "n261",
+                "title": "搜索",
+                "children": []
+              },
+              {
+                "id": "n262",
+                "title": "删除",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "n263",
+            "title": "我的名片",
+            "children": [
+              {
+                "id": "n264",
+                "title": "头像",
+                "children": []
+              },
+              {
+                "id": "n265",
+                "title": "名字",
+                "children": []
+              },
+              {
+                "id": "n266",
+                "title": "账号",
+                "children": []
+              },
+              {
+                "id": "n267",
+                "title": "二维码",
+                "children": []
+              },
+              {
+                "id": "n268",
+                "title": "邀请码",
+                "children": []
+              },
+              {
+                "id": "n269",
+                "title": "邀请链接",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "n270",
+            "title": "深色模式",
+            "children": []
+          },
+          {
+            "id": "n271",
+            "title": "外观设置",
+            "children": []
+          },
+          {
+            "id": "n272",
+            "title": "隐私安全",
+            "children": [
+              {
+                "id": "n273",
+                "title": "账号安全",
+                "children": [
+                  {
+                    "id": "n274",
+                    "title": "修改登录密码",
+                    "children": []
+                  },
+                  {
+                    "id": "n275",
+                    "title": "动态验证码",
+                    "children": []
+                  },
+                  {
+                    "id": "n276",
+                    "title": "密保问题",
+                    "children": []
+                  },
+                  {
+                    "id": "n277",
+                    "title": "登录设备管理",
+                    "children": []
+                  },
+                  {
+                    "id": "n278",
+                    "title": "清除缓存",
+                    "children": []
+                  },
+                  {
+                    "id": "n279",
+                    "title": "清空所有记录",
+                    "children": []
+                  },
+                  {
+                    "id": "n280",
+                    "title": "注销账号",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "n281",
+                "title": "通知",
+                "children": [
+                  {
+                    "id": "n282",
+                    "title": "消息提醒",
+                    "children": []
+                  },
+                  {
+                    "id": "n283",
+                    "title": "通知预览",
+                    "children": []
+                  },
+                  {
+                    "id": "n284",
+                    "title": "震动",
+                    "children": []
+                  },
+                  {
+                    "id": "n285",
+                    "title": "消息提示音",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "n286",
+                "title": "隐私",
+                "children": [
+                  {
+                    "id": "n287",
+                    "title": "显示在线时间",
+                    "children": []
+                  },
+                  {
+                    "id": "n288",
+                    "title": "允许陌生人发消息",
+                    "children": []
+                  },
+                  {
+                    "id": "n289",
+                    "title": "加我的方式",
+                    "children": [
+                      {
+                        "id": "n290",
+                        "title": "二维码",
+                        "children": []
+                      },
+                      {
+                        "id": "n291",
+                        "title": "手机号",
+                        "children": []
+                      },
+                      {
+                        "id": "n292",
+                        "title": "名片",
+                        "children": []
+                      },
+                      {
+                        "id": "n293",
+                        "title": "账号",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n294",
+                    "title": "语音通话",
+                    "children": [
+                      {
+                        "id": "n295",
+                        "title": "所有人",
+                        "children": []
+                      },
+                      {
+                        "id": "n296",
+                        "title": "仅朋友",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n297",
+                    "title": "群组和频道",
+                    "children": [
+                      {
+                        "id": "n298",
+                        "title": "所有人",
+                        "children": []
+                      },
+                      {
+                        "id": "n299",
+                        "title": "仅朋友",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "n300",
+                "title": "关于我们",
+                "children": [
+                  {
+                    "id": "n301",
+                    "title": "版本",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n302",
+            "title": "切换账号",
+            "children": [
+              {
+                "id": "n303",
+                "title": "列表",
+                "children": []
+              },
+              {
+                "id": "n304",
+                "title": "增加",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "n305",
+            "title": "退出登录",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "n306",
+    "title": "登录注册",
+    "children": [
+      {
+        "id": "n307",
+        "title": "加载页",
+        "children": []
+      },
+      {
+        "id": "n308",
+        "title": "登录",
+        "children": [
+          {
+            "id": "n309",
+            "title": "账号输入框",
+            "children": []
+          },
+          {
+            "id": "n310",
+            "title": "密码输入框",
+            "children": []
+          },
+          {
+            "id": "n311",
+            "title": "登录按钮",
+            "children": []
+          },
+          {
+            "id": "n312",
+            "title": "忘记密码",
+            "children": [
+              {
+                "id": "n313",
+                "title": "账号输入框",
+                "children": []
+              },
+              {
+                "id": "n314",
+                "title": "下一步",
+                "children": [
+                  {
+                    "id": "n315",
+                    "title": "行为验证",
+                    "children": [
+                      {
+                        "id": "n316",
+                        "title": "选择验证方式",
+                        "children": [
+                          {
+                            "id": "n317",
+                            "title": "密保问题",
+                            "children": [
+                              {
+                                "id": "n318",
+                                "title": "密保问题1、2、3",
+                                "children": []
+                              },
+                              {
+                                "id": "n319",
+                                "title": "密保答案输入框1、2、3",
+                                "children": []
+                              },
+                              {
+                                "id": "n320",
+                                "title": "验证按钮",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n321",
+            "title": "注册按钮",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n322",
+        "title": "注册",
+        "children": [
+          {
+            "id": "n323",
+            "title": "账号输入框",
+            "children": []
+          },
+          {
+            "id": "n324",
+            "title": "密码输入框",
+            "children": []
+          },
+          {
+            "id": "n325",
+            "title": "确认密码输入框",
+            "children": []
+          },
+          {
+            "id": "n326",
+            "title": "邀请码输入框",
+            "children": []
+          },
+          {
+            "id": "n327",
+            "title": "注册按钮",
+            "children": [
+              {
+                "id": "n328",
+                "title": "行为验证",
+                "children": [
+                  {
+                    "id": "n329",
+                    "title": "首页",
+                    "children": [
+                      {
+                        "id": "n330",
+                        "title": "设置密保问题弹窗",
+                        "children": [
+                          {
+                            "id": "n331",
+                            "title": "密保设置页面",
+                            "children": [
+                              {
+                                "id": "n332",
+                                "title": "密保问题1、2、3",
+                                "children": []
+                              },
+                              {
+                                "id": "n333",
+                                "title": "密保答案1、2、3",
+                                "children": []
+                              },
+                              {
+                                "id": "n334",
+                                "title": "确定",
+                                "children": [
+                                  {
+                                    "id": "n335",
+                                    "title": "截图存相册",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n336",
+            "title": "登录按钮",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
